@@ -1,5 +1,4 @@
-# CODSOFT
-# CODSOFT Internship Machine Learning Tasks 🚀
+# CODSOFT Data Science Internship Tasks 🚀
 
 This repository contains the projects completed as part of my CodSoft internship.  
 The tasks focus on applying machine learning techniques to real-world datasets, including data preprocessing, exploratory analysis, model training, and performance evaluation.
